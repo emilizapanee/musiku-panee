@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux';
 const UserProfile = () => {
   const { data: user } = useSelector((state) => state.user);
   // const userAvatar = user && user.images && user.images[0]?.url;
-  const userAvatar = 'https://avatars.githubusercontent.com/u/7745818?v=4';
+  const userAvatar = 'https://avatars.githubusercontent.com/u/72432161?v=4';
   const [isDesktop] = useMediaQuery('(min-width: 1280px)');
 
   return (
