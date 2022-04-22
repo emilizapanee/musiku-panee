@@ -115,5 +115,5 @@ test('search bar component rendered properly', async () => {
     </Provider>
   );
 
-  expect(screen.getByPlaceholderText(/find your true music/i)).toBeVisible();
+  expect(screen.getByPlaceholderText(/temukan musik kamu/i)).toBeVisible();
 });

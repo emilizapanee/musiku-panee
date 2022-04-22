@@ -54,7 +54,7 @@ const SearchBar = () => {
             variant="outline"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="find your true music"
+            placeholder="Temukan Musik Kamu"
             type="search"
             borderWidth="2px"
             borderColor="gray.700"

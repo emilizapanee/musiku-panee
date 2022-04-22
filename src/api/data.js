@@ -5,54 +5,54 @@ const data = [
       artists: [
         {
           external_urls: {
-            spotify: 'https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d'
+            spotify: 'https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1?si=4c1fe293d2ce43cf'
           },
-          href: 'https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d',
-          id: '1dfeR4HaWDbWqFHLkxsg1d',
-          name: 'Queen',
+          href: 'https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1?si=4c1fe293d2ce43cf',
+          id: '0PDUDa38GO8lMxLCRc4lL1',
+          name: 'Zayn Malik',
           type: 'artist',
-          uri: 'spotify:artist:1dfeR4HaWDbWqFHLkxsg1d'
+          uri: 'spotify:artist:0PDUDa38GO8lMxLCRc4lL1'
         }
       ],
       external_urls: {
-        spotify: 'https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx'
+        spotify: 'https://open.spotify.com/playlist/37i9dQZF1DX6p4TJxzMRDe?si=69e54b53d9ae4d68'
       },
-      href: 'https://api.spotify.com/v1/albums/1GbtB4zTqAsyfZEsm1RZfx',
-      id: '1GbtB4zTqAsyfZEsm1RZfx',
+      href: 'https://open.spotify.com/playlist/37i9dQZF1DX6p4TJxzMRDe?si=69e54b53d9ae4d68',
+      id: '37i9dQZF1DX6p4TJxzMRDex',
       images: [
         {
           height: 640,
-          url: 'https://i.scdn.co/image/ab67616d0000b273e319baafd16e84f0408af2a0',
+          url: 'https://i.scdn.co/image/ab67616d0000b273a15e26d05b7ce776b566579d',
           width: 640
         },
         {
           height: 300,
-          url: 'https://i.scdn.co/image/ab67616d00001e02e319baafd16e84f0408af2a0',
+          url: 'https://i.scdn.co/image/ab67616d0000b273a15e26d05b7ce776b566579d',
           width: 300
         },
         {
           height: 64,
-          url: 'https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0',
+          url: 'https://i.scdn.co/image/ab67616d0000b273a15e26d05b7ce776b566579d',
           width: 64
         }
       ],
-      name: 'A Night At The Opera (2011 Remaster)',
-      release_date: '1975-11-21',
+      name: 'Mind Of Mine (Deluxe Edition)',
+      release_date: '2016-03-25',
       release_date_precision: 'day',
-      total_tracks: 12,
+      total_tracks: 18,
       type: 'album',
-      uri: 'spotify:album:1GbtB4zTqAsyfZEsm1RZfx'
+      uri: 'spotify:album:0PDUDa38GO8lMxLCRc4lL1'
     },
     artists: [
       {
         external_urls: {
-          spotify: 'https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d'
+          spotify: 'https://open.spotify.com/track/2cvFLZPAQoGeQnIRPt2LHE?si=1cdfe717ae1747dd'
         },
-        href: 'https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d',
-        id: '1dfeR4HaWDbWqFHLkxsg1d',
-        name: 'Queen',
+        href: 'https://open.spotify.com/track/2cvFLZPAQoGeQnIRPt2LHE?si=1cdfe717ae1747dd',
+        id: '2cvFLZPAQoGeQnIRPt2LHE',
+        name: 'Zayn Malik',
         type: 'artist',
-        uri: 'spotify:artist:1dfeR4HaWDbWqFHLkxsg1d'
+        uri: 'spotify:artist:2cvFLZPAQoGeQnIRPt2LHE'
       }
     ],
     disc_number: 1,
@@ -62,18 +62,18 @@ const data = [
       isrc: 'GBUM71029604'
     },
     external_urls: {
-      spotify: 'https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv'
+      spotify: 'https://open.spotify.com/track/2cvFLZPAQoGeQnIRPt2LHE?si=1cdfe717ae1747dd'
     },
-    href: 'https://api.spotify.com/v1/tracks/4u7EnebtmKWzUH433cf5Qv',
-    id: '4u7EnebtmKWzUH433cf5Qv',
+    href: 'https://open.spotify.com/track/2cvFLZPAQoGeQnIRPt2LHE?si=1cdfe717ae1747dd',
+    id: '2cvFLZPAQoGeQnIRPt2LHE',
     is_local: false,
     is_playable: true,
-    name: 'Bohemian Rhapsody - Remastered 2011',
+    name: 'Mind Of Mine (Deluxe Edition) 2016',
     popularity: 82,
     preview_url: null,
-    track_number: 11,
+    track_number: 1,
     type: 'track',
-    uri: 'spotify:track:4u7EnebtmKWzUH433cf5Qv'
+    uri: 'spotify:track:2cvFLZPAQoGeQnIRPt2LHE'
   },
   {
     album: {
@@ -81,54 +81,54 @@ const data = [
       artists: [
         {
           external_urls: {
-            spotify: 'https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d'
+            spotify: 'https://open.spotify.com/track/0IKK48xF4eEdfofyaeKWWO?si=491b4bc36bbb4e0a'
           },
-          href: 'https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d',
-          id: '1dfeR4HaWDbWqFHLkxsg1d',
-          name: 'Queen',
+          href: 'https://open.spotify.com/track/0IKK48xF4eEdfofyaeKWWO?si=491b4bc36bbb4e0a',
+          id: '0IKK48xF4eEdfofyaeKWWO',
+          name: 'Zayn Malik',
           type: 'artist',
-          uri: 'spotify:artist:1dfeR4HaWDbWqFHLkxsg1d'
+          uri: 'spotify:artist:0IKK48xF4eEdfofyaeKWWO'
         }
       ],
       external_urls: {
-        spotify: 'https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE'
+        spotify: 'https://open.spotify.com/track/0IKK48xF4eEdfofyaeKWWO?si=491b4bc36bbb4e0a'
       },
-      href: 'https://api.spotify.com/v1/albums/6i6folBtxKV28WX3msQ4FE',
-      id: '6i6folBtxKV28WX3msQ4FE',
+      href: 'https://open.spotify.com/track/0IKK48xF4eEdfofyaeKWWO?si=491b4bc36bbb4e0a',
+      id: '0IKK48xF4eEdfofyaeKWWO',
       images: [
         {
           height: 640,
-          url: 'https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b',
+          url: 'https://i1.sndcdn.com/artworks-000147085187-z3ashs-t500x500.jpg',
           width: 640
         },
         {
           height: 300,
-          url: 'https://i.scdn.co/image/ab67616d00001e02e8b066f70c206551210d902b',
+          url: 'https://i1.sndcdn.com/artworks-000147085187-z3ashs-t500x500.jpg',
           width: 300
         },
         {
           height: 64,
-          url: 'https://i.scdn.co/image/ab67616d00004851e8b066f70c206551210d902b',
+          url: 'https://i1.sndcdn.com/artworks-000147085187-z3ashs-t500x500.jpg',
           width: 64
         }
       ],
-      name: 'Bohemian Rhapsody (The Original Soundtrack)',
-      release_date: '2018-10-19',
+      name: 'Zayn Malik - Pillow Talk',
+      release_date: '2016-01-29',
       release_date_precision: 'day',
-      total_tracks: 22,
+      total_tracks: 18,
       type: 'album',
-      uri: 'spotify:album:6i6folBtxKV28WX3msQ4FE'
+      uri: 'spotify:album:0IKK48xF4eEdfofyaeKWWO'
     },
     artists: [
       {
         external_urls: {
-          spotify: 'https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d'
+          spotify: 'https://open.spotify.com/track/0IKK48xF4eEdfofyaeKWWO?si=491b4bc36bbb4e0a'
         },
-        href: 'https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d',
-        id: '1dfeR4HaWDbWqFHLkxsg1d',
-        name: 'Queen',
+        href: 'https://open.spotify.com/track/0IKK48xF4eEdfofyaeKWWO?si=491b4bc36bbb4e0a',
+        id: '0IKK48xF4eEdfofyaeKWWO',
+        name: 'Zayn Malik',
         type: 'artist',
-        uri: 'spotify:artist:1dfeR4HaWDbWqFHLkxsg1d'
+        uri: 'spotify:artist:0IKK48xF4eEdfofyaeKWWO'
       }
     ],
     disc_number: 1,
@@ -138,18 +138,18 @@ const data = [
       isrc: 'GBUM71029604'
     },
     external_urls: {
-      spotify: 'https://open.spotify.com/track/3z8h0TU7ReDPLIbEnYhWZb'
+      spotify: 'https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1?si=6dc391adbbe24b6c'
     },
-    href: 'https://api.spotify.com/v1/tracks/3z8h0TU7ReDPLIbEnYhWZb',
+    href: 'https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1?si=6dc391adbbe24b6c',
     id: '3z8h0TU7ReDPLIbEnYhWZb',
     is_local: false,
     is_playable: true,
-    name: 'Bohemian Rhapsody',
+    name: 'Pillow Talk',
     popularity: 71,
     preview_url: null,
     track_number: 7,
     type: 'track',
-    uri: 'spotify:track:3z8h0TU7ReDPLIbEnYhWZb'
+    uri: 'spotify:track:0PDUDa38GO8lMxLCRc4lL1'
   },
   {
     album: {
@@ -157,54 +157,54 @@ const data = [
       artists: [
         {
           external_urls: {
-            spotify: 'https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR'
+            spotify: 'https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh?si=hg8-GTNDTbmoYaTsChJPzQ'
           },
-          href: 'https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR',
-          id: '1KCSPY1glIKqW2TotWuXOR',
-          name: 'P!nk',
+          href: 'https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh?si=hg8-GTNDTbmoYaTsChJPzQ',
+          id: '1DF9B2hfwX4EdgEFwGcRwh',
+          name: 'Zayn',
           type: 'artist',
-          uri: 'spotify:artist:1KCSPY1glIKqW2TotWuXOR'
+          uri: 'spotify:artist:1DF9B2hfwX4EdgEFwGcRwh'
         }
       ],
       external_urls: {
-        spotify: 'https://open.spotify.com/album/6GKO2wiPdGjIpSmWlelmft'
+        spotify: 'https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP?si=3d1ac58ee9f946a6'
       },
-      href: 'https://api.spotify.com/v1/albums/6GKO2wiPdGjIpSmWlelmft',
-      id: '6GKO2wiPdGjIpSmWlelmft',
+      href: 'https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP?si=3d1ac58ee9f946a6',
+      id: '3e7sxremeOE3wTySiOhGiP',
       images: [
         {
           height: 640,
-          url: 'https://i.scdn.co/image/ab67616d0000b273c6d39d0bc56e872f55e34406',
+          url: 'https://i.scdn.co/image/ab67616d0000b27323852b7ef0ecfe29d38d97ee',
           width: 640
         },
         {
           height: 300,
-          url: 'https://i.scdn.co/image/ab67616d00001e02c6d39d0bc56e872f55e34406',
+          url: 'https://i.scdn.co/image/ab67616d0000b27323852b7ef0ecfe29d38d97ee',
           width: 300
         },
         {
           height: 64,
-          url: 'https://i.scdn.co/image/ab67616d00004851c6d39d0bc56e872f55e34406',
+          url: 'https://i.scdn.co/image/ab67616d0000b27323852b7ef0ecfe29d38d97ee',
           width: 64
         }
       ],
-      name: 'All I Know So Far: Setlist',
-      release_date: '2021-05-21',
+      name: 'Icarus Falls',
+      release_date: '2018-12-14',
       release_date_precision: 'day',
       total_tracks: 16,
       type: 'album',
-      uri: 'spotify:album:6GKO2wiPdGjIpSmWlelmft'
+      uri: 'spotify:album:1DF9B2hfwX4EdgEFwGcRwh'
     },
     artists: [
       {
         external_urls: {
-          spotify: 'https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR'
+          spotify: 'https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP?si=4877d2c2c74941b1'
         },
-        href: 'https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR',
-        id: '1KCSPY1glIKqW2TotWuXOR',
-        name: 'P!nk',
+        href: 'https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP?si=4877d2c2c74941b1',
+        id: '3e7sxremeOE3wTySiOhGiP',
+        name: 'Zayn, Sia',
         type: 'artist',
-        uri: 'spotify:artist:1KCSPY1glIKqW2TotWuXOR'
+        uri: 'spotify:artist:3e7sxremeOE3wTySiOhGiP'
       }
     ],
     disc_number: 1,
@@ -214,19 +214,19 @@ const data = [
       isrc: 'USRC12100846'
     },
     external_urls: {
-      spotify: 'https://open.spotify.com/track/5jnxScfRVyWskdfPGjTF7c'
+      spotify: 'https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh?si=-9GB8hLlR-atpswCVCYxQw'
     },
-    href: 'https://api.spotify.com/v1/tracks/5jnxScfRVyWskdfPGjTF7c',
-    id: '5jnxScfRVyWskdfPGjTF7c',
+    href: 'https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh?si=-9GB8hLlR-atpswCVCYxQw',
+    id: '1DF9B2hfwX4EdgEFwGcRwh',
     is_local: false,
     is_playable: true,
-    name: 'Bohemian Rhapsody - Live',
+    name: 'Dusk Till Dawn (feat Sia) - Radio Edit',
     popularity: 30,
     preview_url:
       'https://p.scdn.co/mp3-preview/855a367bb0f028749080510f72a1c581af3d4ae3?cid=0beee08e00b947e0aaa2d5cc7f8ffd30',
     track_number: 14,
     type: 'track',
-    uri: 'spotify:track:5jnxScfRVyWskdfPGjTF7c'
+    uri: 'spotify:track:0PDUDa38GO8lMxLCRc4lL1'
   },
   {
     album: {
@@ -244,29 +244,29 @@ const data = [
         }
       ],
       external_urls: {
-        spotify: 'https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8'
+        spotify: 'https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt?si=d5495aec73e245d7'
       },
-      href: 'https://api.spotify.com/v1/albums/5rOHrnrRomvSJhQLGVtfJ8',
+      href: 'https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt?si=d5495aec73e245d7',
       id: '5rOHrnrRomvSJhQLGVtfJ8',
       images: [
         {
           height: 640,
-          url: 'https://i.scdn.co/image/ab67616d0000b273cb4ec52c48a6b071ed2ab6bc',
+          url: 'https://i.scdn.co/image/ab67616d0000b273adeff3f0456c183a0e88edec',
           width: 640
         },
         {
           height: 300,
-          url: 'https://i.scdn.co/image/ab67616d00001e02cb4ec52c48a6b071ed2ab6bc',
+          url: 'https://i.scdn.co/image/ab67616d0000b273adeff3f0456c183a0e88edec',
           width: 300
         },
         {
           height: 64,
-          url: 'https://i.scdn.co/image/ab67616d00004851cb4ec52c48a6b071ed2ab6bc',
+          url: 'https://i.scdn.co/image/ab67616d0000b273adeff3f0456c183a0e88edec',
           width: 64
         }
       ],
-      name: 'Suicide Squad: The Album',
-      release_date: '2016-08-05',
+      name: 'Let Me',
+      release_date: '2018-04-12',
       release_date_precision: 'day',
       total_tracks: 14,
       type: 'album',
@@ -279,7 +279,7 @@ const data = [
         },
         href: 'https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK',
         id: '20JZFwl6HVl6yg8a4H3ZqK',
-        name: 'Panic! At The Disco',
+        name: 'Zayn Malik',
         type: 'artist',
         uri: 'spotify:artist:20JZFwl6HVl6yg8a4H3ZqK'
       }
@@ -291,19 +291,19 @@ const data = [
       isrc: 'USAT21602014'
     },
     external_urls: {
-      spotify: 'https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE'
+      spotify: 'https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt?si=d5495aec73e245d7'
     },
-    href: 'https://api.spotify.com/v1/tracks/2YSbHu9XF4bNYWt3MnIhgE',
-    id: '2YSbHu9XF4bNYWt3MnIhgE',
+    href: 'https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt?si=d5495aec73e245d7',
+    id: '2cEmWBBlCfR9wWrY9JmTyt',
     is_local: false,
     is_playable: true,
-    name: 'Bohemian Rhapsody',
+    name: 'Let Me',
     popularity: 58,
     preview_url:
       'https://p.scdn.co/mp3-preview/1f8e6abafd07e2e9dde3cf35ba5827a7f2790533?cid=0beee08e00b947e0aaa2d5cc7f8ffd30',
     track_number: 11,
     type: 'track',
-    uri: 'spotify:track:2YSbHu9XF4bNYWt3MnIhgE'
+    uri: 'spotify:track:2cEmWBBlCfR9wWrY9JmTyt'
   },
   {
     album: {
@@ -311,52 +311,52 @@ const data = [
       artists: [
         {
           external_urls: {
-            spotify: 'https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53'
+            spotify: 'https://open.spotify.com/track/3jZomvOBa5qfTo5HkqI1p5?si=541975dbf8aa4f11'
           },
-          href: 'https://api.spotify.com/v1/artists/26AHtbjWKiwYzsoGoUZq53',
-          id: '26AHtbjWKiwYzsoGoUZq53',
-          name: 'Pentatonix',
+          href: 'https://open.spotify.com/track/3jZomvOBa5qfTo5HkqI1p5?si=541975dbf8aa4f11',
+          id: '3jZomvOBa5qfTo5HkqI1p5',
+          name: 'One Direction',
           type: 'artist',
-          uri: 'spotify:artist:26AHtbjWKiwYzsoGoUZq53'
+          uri: 'spotify:artist:3jZomvOBa5qfTo5HkqI1p5'
         }
       ],
       external_urls: {
-        spotify: 'https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX'
+        spotify: 'https://open.spotify.com/track/3jZomvOBa5qfTo5HkqI1p5?si=541975dbf8aa4f11'
       },
-      href: 'https://api.spotify.com/v1/albums/00JpoY0ZaQRXTNJUruibfX',
-      id: '00JpoY0ZaQRXTNJUruibfX',
+      href: 'https://open.spotify.com/track/3jZomvOBa5qfTo5HkqI1p5?si=541975dbf8aa4f11',
+      id: '3jZomvOBa5qfTo5HkqI1p5',
       images: [
         {
           height: 640,
-          url: 'https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30',
+          url: 'https://i.scdn.co/image/ab67616d00001e022288e51936a9fdde73d22904',
           width: 640
         },
         {
           height: 300,
-          url: 'https://i.scdn.co/image/ab67616d00001e029729d686606e6be27346da30',
+          url: 'https://i.scdn.co/image/ab67616d00001e022288e51936a9fdde73d22904',
           width: 300
         },
         {
           height: 64,
-          url: 'https://i.scdn.co/image/ab67616d000048519729d686606e6be27346da30',
+          url: 'https://i.scdn.co/image/ab67616d00001e022288e51936a9fdde73d22904',
           width: 64
         }
       ],
-      name: 'PTX Vol. IV - Classics',
-      release_date: '2017-04-07',
+      name: 'One Way or Another (Teenage Kicks)',
+      release_date: '2013-02-17',
       release_date_precision: 'day',
       total_tracks: 7,
       type: 'album',
-      uri: 'spotify:album:00JpoY0ZaQRXTNJUruibfX'
+      uri: 'spotify:album:3jZomvOBa5qfTo5HkqI1p5'
     },
     artists: [
       {
         external_urls: {
-          spotify: 'https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53'
+          spotify: 'https://open.spotify.com/track/3jZomvOBa5qfTo5HkqI1p5?si=541975dbf8aa4f11'
         },
-        href: 'https://api.spotify.com/v1/artists/26AHtbjWKiwYzsoGoUZq53',
-        id: '26AHtbjWKiwYzsoGoUZq53',
-        name: 'Pentatonix',
+        href: 'https://open.spotify.com/track/3jZomvOBa5qfTo5HkqI1p5?si=541975dbf8aa4f11',
+        id: '3jZomvOBa5qfTo5HkqI1p5',
+        name: 'One Direction',
         type: 'artist',
         uri: 'spotify:artist:26AHtbjWKiwYzsoGoUZq53'
       }
@@ -368,13 +368,13 @@ const data = [
       isrc: 'USRC11700356'
     },
     external_urls: {
-      spotify: 'https://open.spotify.com/track/0lrkMvRttmoXjMNS8YONvj'
+      spotify: 'https://open.spotify.com/track/3jZomvOBa5qfTo5HkqI1p5?si=541975dbf8aa4f11'
     },
-    href: 'https://api.spotify.com/v1/tracks/0lrkMvRttmoXjMNS8YONvj',
-    id: '0lrkMvRttmoXjMNS8YONvj',
+    href: 'https://open.spotify.com/track/3jZomvOBa5qfTo5HkqI1p5?si=541975dbf8aa4f11',
+    id: '3jZomvOBa5qfTo5HkqI1p5',
     is_local: false,
     is_playable: true,
-    name: 'Bohemian Rhapsody',
+    name: 'One Way or Another (Teenage Kicks)',
     popularity: 53,
     preview_url:
       'https://p.scdn.co/mp3-preview/48397490dbd47b3315d6b5bd01cbd8d894eda62c?cid=0beee08e00b947e0aaa2d5cc7f8ffd30',
@@ -405,17 +405,17 @@ const data = [
       images: [
         {
           height: 640,
-          url: 'https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b273d0f311952b3def1c1726cbdb',
           width: 640
         },
         {
           height: 300,
-          url: 'https://i.scdn.co/image/ab67616d00001e02e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b273d0f311952b3def1c1726cbdb',
           width: 300
         },
         {
           height: 64,
-          url: 'https://i.scdn.co/image/ab67616d00004851e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b273d0f311952b3def1c1726cbdb',
           width: 64
         }
       ],
@@ -481,17 +481,17 @@ const data = [
       images: [
         {
           height: 640,
-          url: 'https://i.scdn.co/image/ab67616d0000b273789bfaea6e7da3ef84d5ddff',
+          url: 'https://i.scdn.co/image/ab67616d0000b27397810ab027bde14038a25776',
           width: 640
         },
         {
           height: 300,
-          url: 'https://i.scdn.co/image/ab67616d00001e02789bfaea6e7da3ef84d5ddff',
+          url: 'https://i.scdn.co/image/ab67616d0000b27397810ab027bde14038a25776',
           width: 300
         },
         {
           height: 64,
-          url: 'https://i.scdn.co/image/ab67616d00004851789bfaea6e7da3ef84d5ddff',
+          url: 'https://i.scdn.co/image/ab67616d0000b27397810ab027bde14038a25776',
           width: 64
         }
       ],
@@ -558,17 +558,17 @@ const data = [
       images: [
         {
           height: 640,
-          url: 'https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b273182f42112113f08871e71c53',
           width: 640
         },
         {
           height: 300,
-          url: 'https://i.scdn.co/image/ab67616d00001e02e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b273182f42112113f08871e71c53',
           width: 300
         },
         {
           height: 64,
-          url: 'https://i.scdn.co/image/ab67616d00004851e8b066f70c206551210d902b',
+          url: 'hhttps://i.scdn.co/image/ab67616d0000b273182f42112113f08871e71c53',
           width: 64
         }
       ],
@@ -634,17 +634,17 @@ const data = [
       images: [
         {
           height: 640,
-          url: 'https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b273c4785245600c0c8b1a6eed0f',
           width: 640
         },
         {
           height: 300,
-          url: 'https://i.scdn.co/image/ab67616d00001e02e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b273c4785245600c0c8b1a6eed0f',
           width: 300
         },
         {
           height: 64,
-          url: 'https://i.scdn.co/image/ab67616d00004851e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b273c4785245600c0c8b1a6eed0f',
           width: 64
         }
       ],
@@ -710,17 +710,17 @@ const data = [
       images: [
         {
           height: 640,
-          url: 'https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b2730ead5cd3bdcb066ec9faad2b',
           width: 640
         },
         {
           height: 300,
-          url: 'https://i.scdn.co/image/ab67616d00001e02e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b2730ead5cd3bdcb066ec9faad2b',
           width: 300
         },
         {
           height: 64,
-          url: 'https://i.scdn.co/image/ab67616d00004851e8b066f70c206551210d902b',
+          url: 'https://i.scdn.co/image/ab67616d0000b2730ead5cd3bdcb066ec9faad2b',
           width: 64
         }
       ],

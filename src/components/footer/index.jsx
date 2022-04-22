@@ -5,7 +5,7 @@ const Footer = () => (
   <Center bg="black" h="100px" color="gray.300" padding="20px">
     <HStack>
       <Text>
-        Made in a Panic.
+        Sipaling spotify ceunah.
       </Text>
       <Icon icon="emojione:sad-but-relieved-face" inline />
     </HStack>

@@ -52,7 +52,7 @@ const CreatePlaylistPage = () => {
         </Box>
         <Box width="100%">
           <Heading as="h2" fontSize="md" textAlign="center" mb="7">
-            Select tracks for your new playlist
+            Pilih lagu untuk menambah playlist musik Kamu
           </Heading>
           <TrackList data={trackList} />
         </Box>
