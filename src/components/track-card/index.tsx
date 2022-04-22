@@ -12,7 +12,7 @@ interface Artist {
 
 const TrackCard = ({ data, handleSelect }: TrackCardProps) => {
   const { album, name } = data;
-  const artists = data.artists.map((artist: Artist) => artist.name).join(', ');
+  const artists = data.artists?.map((artist: Artist) => artist.name).join(', ');
   const albumPhoto = album.images.find((image) => image.height === 300);
   const { isTrackSelected } = usePlaylist();
   const isSelected = isTrackSelected(data);
